@@ -1,0 +1,22 @@
+body{
+    font-family: 'Helvetica';
+    background-color: cadetblue;
+}
+
+h1{
+    font-size: 50px;
+}
+
+ul{
+    list-style-type: none;
+    border: 3px;
+    border-style: solid;
+    border-color: black;
+    padding: lem;
+/*    text-align: right;*/
+}
+
+p1{
+    background-color: yellow;
+}
+
